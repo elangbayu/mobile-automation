@@ -1,4 +1,4 @@
-package com.elangsegara.mobile_automation;
+package com.elangsegara.mobile_automation.drivers;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;

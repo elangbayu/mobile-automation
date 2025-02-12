@@ -1,9 +1,11 @@
-package com.elangsegara.mobile_automation;
+package com.elangsegara.mobile_automation.base;
 
 import java.net.MalformedURLException;
 
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+
+import com.elangsegara.mobile_automation.drivers.DriverFactory;
 
 import io.appium.java_client.AppiumDriver;
 

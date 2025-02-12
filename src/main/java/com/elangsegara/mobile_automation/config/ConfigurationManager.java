@@ -1,4 +1,4 @@
-package com.elangsegara.mobile_automation;
+package com.elangsegara.mobile_automation.config;
 
 import java.io.IOException;
 import java.io.InputStream;
