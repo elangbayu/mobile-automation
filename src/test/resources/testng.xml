@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Mobile Test Suite">
+    <parameter name="platform" value="android"/>
+    <test name="App Tests">
+        <classes>
+            <class name="com.elangsegara.mobile_automation.tests.AppTest"/>
+        </classes>
+    </test>
+</suite>
